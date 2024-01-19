@@ -1,0 +1,46 @@
+{
+    "post": [
+        {
+            "id": 1,
+            "title": "Introduction to Programming",
+            "description": "Learn the fundamentals of programming with this comprehensive course. Covering key concepts and languages, this course is perfect for beginners and those looking to expand their coding skills.",
+            "like": true,
+            "count": 120
+        },
+        {
+            "id": 2,
+            "title": "Healthy Cooking Recipes",
+            "description": "Explore a variety of nutritious and delicious recipes that promote a healthy lifestyle. From quick meals to gourmet dishes, discover how to make food that not only tastes good but is good for you.",
+            "like": false,
+            "count": 45
+        },
+        {
+            "id": 3,
+            "title": "Photography Basics",
+            "description": "Unlock the secrets of photography in this beginner-friendly course. From understanding your camera to mastering composition, elevate your photography skills and capture stunning moments.",
+            "like": true,
+            "count": 80
+        },
+        {
+            "id": 4,
+            "title": "Mindfulness Meditation",
+            "description": "Immerse yourself in the art of mindfulness meditation. Learn techniques to reduce stress, improve focus, and cultivate a sense of inner peace. Transform your daily life with these mindfulness practices.",
+            "like": true,
+            "count": 150
+        },
+        {
+            "id": 5,
+            "title": "Financial Planning 101",
+            "description": "Take control of your finances with this comprehensive financial planning course. From budgeting to investing, acquire the knowledge and skills needed to achieve your financial goals with confidence.",
+            "like": false,
+            "count": 30
+        },
+        {
+            "id": 6,
+            "title": "DIY Home Decor Ideas",
+            "description": "Get creative with DIY home decor projects. From crafting personalized items to repurposing old furniture, discover budget-friendly ideas to enhance the aesthetics of your living space.",
+            "like": true,
+            "count": 65
+        }
+    ]
+}
