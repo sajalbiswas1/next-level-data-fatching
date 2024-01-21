@@ -5,14 +5,14 @@
             "title": "Introduction to Programming",
             "description": "Learn the fundamentals of programming with this comprehensive course. Covering key concepts and languages, this course is perfect for beginners and those looking to expand their coding skills.",
             "like": true,
-            "count": 120
+            "count": 12
         },
         {
             "id": 2,
             "title": "Healthy Cooking Recipes",
             "description": "Explore a variety of nutritious and delicious recipes that promote a healthy lifestyle. From quick meals to gourmet dishes, discover how to make food that not only tastes good but is good for you.",
             "like": false,
-            "count": 45
+            "count": 5
         },
         {
             "id": 3,

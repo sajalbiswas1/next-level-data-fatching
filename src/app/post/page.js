@@ -1,7 +1,9 @@
 
 
 const PostPage = async() => {
-    const res = await fetch("http://localhost:5000/post");
+    const res = await fetch("http://localhost:5000/post",{
+      cache: "no-store"
+    });
     const posts = await res.json();
     console.log(posts)
     return (
